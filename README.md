@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/_varadaraj_" target="blank"><img src="https://img.shields.io/twitter/follow/_varadaraj_?logo=twitter&style=for-the-badge" alt="_varadaraj_" /></a> </p>
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 I’m currently learning **MERN & REACT NATIVE**
+-  Checkout My Portfolio here [https://personal-portfolio-orpin-gamma.vercel.app/]([https://www.instagram.com/_.macro_world._?igsh=MW93Zmg5MnJwNHdteA==](https://personal-portfolio-orpin-gamma.vercel.app/))
 
 - Checkout My Macro Photography page 📸 [https://www.instagram.com/_.macro_world._?igsh=MW93Zmg5MnJwNHdteA==](https://www.instagram.com/_.macro_world._?igsh=MW93Zmg5MnJwNHdteA==)
 
