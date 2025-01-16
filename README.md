@@ -11,8 +11,6 @@
   
 - Checkout My Macro Photography page 📸 [https://www.instagram.com/_.macro_world._?igsh=MW93Zmg5MnJwNHdteA==](https://www.instagram.com/_.macro_world._?igsh=MW93Zmg5MnJwNHdteA==)
 
-- Other interests 😶‍🌫️ **Macro Photography 🐞🪲**
-
 - 📫 How to reach me **varadaraj277@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
