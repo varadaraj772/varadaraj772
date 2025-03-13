@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/_varadaraj_" target="blank"><img src="https://img.shields.io/twitter/follow/_varadaraj_?logo=twitter&style=for-the-badge" alt="_varadaraj_" /></a> </p>
 
-- 🌱 I’m currently working in **REACT NATIVE - REACT JS - GO - Ai Models**
+- 🌱 I’m currently working in **REACT NATIVE - NEXT.JS - NODE.JS - Ai Models**
   
--  Checkout My Portfolio here [https://varada.vercel.app/](https://varada.vercel.app/)
+-  Checkout My Portfolio here [https://varada.me/](https://varada.me/)
   
 - Checkout My Macro Photography page 📸 [https://www.instagram.com/_.macro_world._?igsh=MW93Zmg5MnJwNHdteA==](https://www.instagram.com/_.macro_world._?igsh=MW93Zmg5MnJwNHdteA==)
 
