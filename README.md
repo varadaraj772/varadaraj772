@@ -87,10 +87,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Most Servers Run Linux: Practice These Basic Commands Before Working on Servers Pt-2](https://blog.stackademic.com/most-servers-run-linux-practice-these-basic-commands-before-working-on-servers-pt-2-c4c42903b568?source=rss-1ac1c6d597f6------2)
 - [AI bubble popping soon???](https://medium.com/write-a-catalyst/ai-bubble-popping-soon-48318dcbfb46?source=rss-1ac1c6d597f6------2)
 - [Is LLMO is the new SEO ??](https://medium.com/codetodeploy/is-llmo-is-the-new-seo-558a2b301e23?source=rss-1ac1c6d597f6------2)
 - [Most Servers Run Linux: Practice These Basic Commands Before Working on Servers](https://blog.stackademic.com/most-servers-run-linux-practice-these-basic-commands-before-working-on-servers-f22843ee342d?source=rss-1ac1c6d597f6------2)
-- [AI Writes More Code Than Me Now..And That’s a Good Thing](https://medium.com/write-a-catalyst/ai-writes-more-code-than-me-now-and-thats-a-good-thing-62d344a7e751?source=rss-1ac1c6d597f6------2)
 <!-- BLOG-POST-LIST:END -->
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@varadaraj277/0">
