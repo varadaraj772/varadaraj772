@@ -87,10 +87,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Are Sam Altman, Dario Amodei and Elon Musk Suddenly Saying AI Should Slow Down?](https://blog.stackademic.com/why-are-sam-altman-dario-amodei-and-elon-musk-suddenly-saying-ai-should-slow-down-ec2f02456f63?source=rss-1ac1c6d597f6------2)
 - [Claude Is Now Watermarking Its Text. Here’s What That Actually Means for All of Us](https://blog.stackademic.com/claude-is-now-watermarking-its-text-heres-what-that-actually-means-for-all-of-us-687aedf2fc34?source=rss-1ac1c6d597f6------2)
 - [How to Deploy a React App on a Linux VPS&lpar;Server&rpar;](https://blog.stackademic.com/how-to-deploy-a-react-app-on-a-linux-vps-server-46b353fdaac6?source=rss-1ac1c6d597f6------2)
 - [Self hosting Node.js app on a Linux Server &lpar;Beginner Friendly Guide&rpar;](https://blog.stackademic.com/self-hosting-node-js-app-on-a-linux-server-beginner-friendly-guide-2884c67a3044?source=rss-1ac1c6d597f6------2)
-- [Most Servers Run Linux: Practice These Basic Commands Before Working on Servers Pt-2](https://blog.stackademic.com/most-servers-run-linux-practice-these-basic-commands-before-working-on-servers-pt-2-c4c42903b568?source=rss-1ac1c6d597f6------2)
 <!-- BLOG-POST-LIST:END -->
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@varadaraj277/0">
